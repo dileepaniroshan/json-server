@@ -3,10 +3,7 @@
     { "id": 1, 
        "title": "galle", 
        "description": "description of galle" , 
-       "coordinates":{
-       	 "latitude": "6.276309",
-         "longitude": "80.168532"
-       }
+       
       
      },
    
