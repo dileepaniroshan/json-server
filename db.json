@@ -4,7 +4,7 @@
        "title": "galle", 
        "description": "description of galle" ,
 
-       "latlng": [
+       "lating": [
         {  
             "latitude": "6.276309", 
             "longitude": "80.168532" 
@@ -15,7 +15,6 @@
        
     }
     
-   
 
   ],
   
