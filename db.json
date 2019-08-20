@@ -1,25 +1,47 @@
 {
-  "marker": [
-    {  "id": 1, 
-       "title": "galle", 
-       "description": "description of galle" ,
-
-       "lating": [
-        {  
-            "latitude": "6.276309", 
-            "longitude": "80.168532" 
-        }
-      ]
-
-       
-       
-    }
-    
-
-  ],
+    "marker": [
+      {  
+        
+        "id": 1, 
+         "title": "galle", 
+         "description": "description of galle" ,
   
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+         "lating": [
+          {  
+              "latitude": "6.276309", 
+              "longitude": "80.168532" 
+          }
+        ]
+  
+         
+         
+      },
+
+      {  
+        
+        "id": 1, 
+         "title": "galle", 
+         "description": "description of galle" ,
+  
+         "lating": [
+          {  
+              "latitude": "6.276309", 
+              "longitude": "80.168532" 
+          }
+        ]
+  
+         
+         
+      },
+
+      
+      
+      
+  
+    ],
+    
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
