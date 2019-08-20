@@ -1,6 +1,15 @@
 {
   "markers": [
-    { "id": 1, "title": "galle", "description": "description of galle" , "latitude": "6.276309", "longitude": "80.168532" },
+    { "id": 1, 
+       "title": "galle",
+        "description": "description of galle" ,
+        "lating": [{
+            "latitude": "6.276309",
+            "longitude": "80.168532" 
+         }],
+        
+    },
+    
     { "id": 2, "title": "colombo", "description": "description of colombo" , "latitude": "8.446683", "longitude": "80.888652" },
     { "id": 2, "title": "Katharagama", "description": "description of Katharagama" , "latitude": "6.769628", "longitude": "79.877462" }
 
