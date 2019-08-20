@@ -4,7 +4,7 @@
 			"title": "galle",
 			"description": "description of galle",
 
-			"coordinate": {
+			"coordinates": {
 				"latitude": "6.276309",
 				"longitude": "80.168532"
 			}
@@ -18,7 +18,7 @@
 			"title": "galle",
 			"description": "description of galle",
 
-			"coordinate": {
+			"coordinates": {
 				"latitude": "6.276309",
 				"longitude": "80.168532"
 			}
