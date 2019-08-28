@@ -3,7 +3,7 @@
 			"id": 1,
 			"title": "galle",
 			"description": "description of galle",
-		         "image": "http://www.pngmart.com/files/3/Fireball-Transparent-PNG.png",
+		         "image": "'http://www.pngmart.com/files/3/Fireball-Transparent-PNG.png'",
 
 			"coordinates": {
 				"latitude": 6.276309,
@@ -18,7 +18,7 @@
 			"id": 2,
 			"title": "mathara",
 			"description": "description of galle",
-			"image": "http://www.pngmart.com/files/3/Fireball-PNG-Transparent-Image.png",
+			"image": "'http://www.pngmart.com/files/3/Fireball-PNG-Transparent-Image.png'",
 
 			"coordinates": {
 				"latitude": 7.276309,
